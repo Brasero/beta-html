@@ -1,0 +1,12 @@
+.beta-connect-button{
+
+    width: fit-content;
+    height: 25px;
+    margin: 5px 8px;
+    color: white;
+    background-color: rgba(243, 243, 20, 0.727);
+    text-align: center;
+    border: none;
+    border-radius: 8px;
+    
+}
